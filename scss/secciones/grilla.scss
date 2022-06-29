@@ -1,0 +1,16 @@
+.grilla {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 0.15fr 1fr 1fr 1fr 1fr 0.3fr 0.15fr;
+    gap: 0px 0px;
+    font-family: sans-serif;
+    background-color: beige;
+    grid-template-areas: 
+        "header header header header"
+        "seccion1 seccion1 seccion1 seccion1"
+        "seccion1 seccion1 seccion1 seccion1"
+        "seccion2 seccion2 seccion2 seccion2"
+        "seccion2 seccion2 seccion2 seccion2"
+        "suscripcion suscripcion suscripcion suscripcion"
+        "footer footer footer footer";
+}

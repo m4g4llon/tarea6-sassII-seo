@@ -1,0 +1,36 @@
+.header {
+    grid-area: header;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(210, 236, 237);
+    max-height: 10vh;
+    justify-content: center;
+    align-items: center;
+
+    a {
+        img {
+            width: 150px;
+            height: auto;
+        }
+    }
+
+    ul {
+        display: flex;
+        width: 100%;
+
+        li {
+            list-style: none;
+            padding: 20px;
+            height: auto;
+            text-align: center;
+            width: 100%;
+
+            &:hover {
+                background-color: rgb(105, 144, 192);
+                border-radius: 20px;
+                font-size: 110%;
+            }
+
+        }
+    }
+}
