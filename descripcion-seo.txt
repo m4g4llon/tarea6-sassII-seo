@@ -1,0 +1,11 @@
+En el archivo index.html sumé el SEO con las siguientes características:
+
+1.- Descripción: mediante la etiqueta meta name description, agregué el siguiente párrafo que explica en pocas palabras el contenido de mi sitio: 
+“Somos la mejor plataforma para gestionar y administrar las finanzas de tu negocio, ayudandote a destinar tiempo exclusivamente a tu negocio"
+
+2.- Palabras clave: mediante la etiqueta meta name keywords, agregué las palabras clave que acompañarán a todas las páginas de mi sitio: 
+"FINANZAS, NEGOCIO, CAJA, FLUJO, REPORTES, PAGOS, COBRANZAS, BANCO, SII, AUTOMATIZACION"
+
+3.- Encabezado: 
+    * En la seccion1 para el encabezado del h1 utilicé el texto “Ten control de tu negocio de forma fácil y en tiempo real”
+    * En la seccion2 para el encabezado del h1 utilicé el texto “Banco + SII integrados en tiempo real”

@@ -1,0 +1,17 @@
+@mixin seccion {
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: top;
+}
+
+.seccion1{
+    grid-area: seccion1;
+    margin-top: 20px;
+    @include seccion;
+}
+.seccion2{
+    grid-area: seccion2;
+    margin-top: 50px;
+    @include seccion;
+}
